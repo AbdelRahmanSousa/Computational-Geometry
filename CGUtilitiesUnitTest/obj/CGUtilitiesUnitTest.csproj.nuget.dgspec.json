@@ -1,0 +1,156 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Abdel\\Projects\\FCIS\\ComputationalGeometry\\geometry\\CGUtilitiesUnitTest\\CGUtilitiesUnitTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Abdel\\Projects\\FCIS\\ComputationalGeometry\\geometry\\CGUtilitiesUnitTest\\CGUtilitiesUnitTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Abdel\\Projects\\FCIS\\ComputationalGeometry\\geometry\\CGUtilitiesUnitTest\\CGUtilitiesUnitTest.csproj",
+        "projectName": "CGUtilitiesUnitTest",
+        "projectPath": "C:\\Users\\Abdel\\Projects\\FCIS\\ComputationalGeometry\\geometry\\CGUtilitiesUnitTest\\CGUtilitiesUnitTest.csproj",
+        "packagesPath": "C:\\Users\\Abdel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Abdel\\Projects\\FCIS\\ComputationalGeometry\\geometry\\CGUtilitiesUnitTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Abdel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "C:\\Users\\Abdel\\Projects\\FCIS\\ComputationalGeometry\\geometry\\CGUtilities\\CGUtilities.csproj": {
+                "projectPath": "C:\\Users\\Abdel\\Projects\\FCIS\\ComputationalGeometry\\geometry\\CGUtilities\\CGUtilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.DotNet.UpgradeAssistant.Extensions.Default.Analyzers": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[0.4.346202, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Abdel\\Projects\\FCIS\\ComputationalGeometry\\geometry\\CGUtilities\\CGUtilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Abdel\\Projects\\FCIS\\ComputationalGeometry\\geometry\\CGUtilities\\CGUtilities.csproj",
+        "projectName": "CGUtilities",
+        "projectPath": "C:\\Users\\Abdel\\Projects\\FCIS\\ComputationalGeometry\\geometry\\CGUtilities\\CGUtilities.csproj",
+        "packagesPath": "C:\\Users\\Abdel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Abdel\\Projects\\FCIS\\ComputationalGeometry\\geometry\\CGUtilities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Abdel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "Microsoft.DotNet.UpgradeAssistant.Extensions.Default.Analyzers": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[0.4.346202, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "System.Data.DataSetExtensions": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

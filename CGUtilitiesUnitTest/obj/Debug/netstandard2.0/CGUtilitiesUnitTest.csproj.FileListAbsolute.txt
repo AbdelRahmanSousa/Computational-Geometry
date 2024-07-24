@@ -1,0 +1,3 @@
+C:\Users\Abdel\Projects\FCIS\ComputationalGeometry\geometry\CGUtilitiesUnitTest\obj\Debug\netstandard2.0\CGUtilitiesUnitTest.csproj.AssemblyReference.cache
+C:\Users\Abdel\Projects\FCIS\ComputationalGeometry\geometry\CGUtilitiesUnitTest\obj\Debug\netstandard2.0\CGUtilitiesUnitTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdel\Projects\FCIS\ComputationalGeometry\geometry\CGUtilitiesUnitTest\obj\Debug\netstandard2.0\CGUtilitiesUnitTest.csproj.CoreCompileInputs.cache
