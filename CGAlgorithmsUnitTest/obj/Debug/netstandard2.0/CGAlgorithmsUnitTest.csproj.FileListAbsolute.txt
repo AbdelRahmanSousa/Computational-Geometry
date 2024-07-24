@@ -1,0 +1,13 @@
+C:\Users\Abdel\Projects\FCIS\ComputationalGeometry\geometry\CGAlgorithmsUnitTest\bin\Debug\netstandard2.0\CGAlgorithmsUnitTest.deps.json
+C:\Users\Abdel\Projects\FCIS\ComputationalGeometry\geometry\CGAlgorithmsUnitTest\bin\Debug\netstandard2.0\CGAlgorithmsUnitTest.dll
+C:\Users\Abdel\Projects\FCIS\ComputationalGeometry\geometry\CGAlgorithmsUnitTest\bin\Debug\netstandard2.0\CGAlgorithmsUnitTest.pdb
+C:\Users\Abdel\Projects\FCIS\ComputationalGeometry\geometry\CGAlgorithmsUnitTest\bin\Debug\netstandard2.0\CGAlgorithms.dll
+C:\Users\Abdel\Projects\FCIS\ComputationalGeometry\geometry\CGAlgorithmsUnitTest\bin\Debug\netstandard2.0\CGUtilities.dll
+C:\Users\Abdel\Projects\FCIS\ComputationalGeometry\geometry\CGAlgorithmsUnitTest\bin\Debug\netstandard2.0\CGAlgorithms.pdb
+C:\Users\Abdel\Projects\FCIS\ComputationalGeometry\geometry\CGAlgorithmsUnitTest\bin\Debug\netstandard2.0\CGUtilities.pdb
+C:\Users\Abdel\Projects\FCIS\ComputationalGeometry\geometry\CGAlgorithmsUnitTest\obj\Debug\netstandard2.0\CGAlgorithmsUnitTest.csproj.AssemblyReference.cache
+C:\Users\Abdel\Projects\FCIS\ComputationalGeometry\geometry\CGAlgorithmsUnitTest\obj\Debug\netstandard2.0\CGAlgorithmsUnitTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdel\Projects\FCIS\ComputationalGeometry\geometry\CGAlgorithmsUnitTest\obj\Debug\netstandard2.0\CGAlgorithmsUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Abdel\Projects\FCIS\ComputationalGeometry\geometry\CGAlgorithmsUnitTest\obj\Debug\netstandard2.0\CGAlgorithmsUnitTest.csproj.CopyComplete
+C:\Users\Abdel\Projects\FCIS\ComputationalGeometry\geometry\CGAlgorithmsUnitTest\obj\Debug\netstandard2.0\CGAlgorithmsUnitTest.dll
+C:\Users\Abdel\Projects\FCIS\ComputationalGeometry\geometry\CGAlgorithmsUnitTest\obj\Debug\netstandard2.0\CGAlgorithmsUnitTest.pdb

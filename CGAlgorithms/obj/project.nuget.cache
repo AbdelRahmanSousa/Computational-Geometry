@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "9TtchdkH82qBAgs/FPRQ4nEaTU7QBz7t0nWRJ3GyuKx9r8ijMkrYukKA04KlBxWOUPLnOCZBrqYA4e86GDskuQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Abdel\\Projects\\FCIS\\ComputationalGeometry\\geometry\\CGAlgorithms\\CGAlgorithms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abdel\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Abdel\\.nuget\\packages\\microsoft.dotnet.upgradeassistant.extensions.default.analyzers\\0.4.346202\\microsoft.dotnet.upgradeassistant.extensions.default.analyzers.0.4.346202.nupkg.sha512",
+    "C:\\Users\\Abdel\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Abdel\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Abdel\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
